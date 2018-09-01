@@ -1,2 +1,2 @@
 # SpringPhysics
-An RK4 spring simulator, build in javascript. 
+An RK4 spring simulator, built in Javascript. 
